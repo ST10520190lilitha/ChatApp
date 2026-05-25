@@ -1,6 +1,7 @@
 # ChatApp
-PROG5121 Programming 1A ChatApp POE
-##Student Information
+PROG5121 Programming 1A ChatApp POE 
+
+Student Information
 
 St10520190
 
