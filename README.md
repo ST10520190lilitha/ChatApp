@@ -11,7 +11,7 @@ PROG5121
 
 ---
 
-##Project Information  
+Project Information  
 
 In MyChatApp part two I developed an application that allows someone to register an account which they have to validate their personal information. The main purpose of the project is to show the importants progamming concepts such as classes and objects, methods, loops, conditional statements, user input, and validation techniques. 
 
